@@ -8,6 +8,7 @@ specifiers:
   prettier-plugin-svelte: ^2.8.1
   svelte: ^3.54.0
   svelte-check: ^2.9.2
+  sveltekit-svg: link:package
   tslib: ^2.4.1
   typescript: ^4.9.3
   vite: ^4.0.0
@@ -20,6 +21,7 @@ devDependencies:
   prettier-plugin-svelte: 2.9.0_74vfyr7qjo56zgjcvkwi6gyjxm
   svelte: 3.55.0
   svelte-check: 2.10.3_svelte@3.55.0
+  sveltekit-svg: link:package
   tslib: 2.4.1
   typescript: 4.9.4
   vite: 4.0.4
