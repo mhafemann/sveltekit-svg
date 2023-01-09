@@ -23,9 +23,19 @@
 		"typescript": "^4.9.3",
 		"vite": "^4.0.0"
 	},
+	"license": "MIT",
 	"type": "module",
 	"author": "Mark Hafemann",
 	"email": "markhafemann1@gmail.com",
-	"url": "https://markh.dev",
+	"url": "https://github.com/mhafemann/sveltekit-svg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mhafemann/sveltekit-svg"
+	},
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"svg"
+	],
 	"description": "A simple svg component to use in svelte projects."
 }
