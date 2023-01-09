@@ -1,4 +1,4 @@
-# sveltekit-svg
+# sveltekit-svg (WIP)
 
 [![NPM version](https://img.shields.io/npm/v/sveltekit-svg)](https://www.npmjs.com/package/sveltekit-svg)
 
