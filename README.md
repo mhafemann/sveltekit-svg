@@ -1,6 +1,6 @@
 # sveltekit-svg
 
-<!-- [![NPM version](https://img.shields.io/npm/v/standard-version.svg)](https://www.npmjs.com/package/standard-version) -->
+[![NPM version](https://img.shields.io/npm/v/sveltekit-svg)](https://www.npmjs.com/package/sveltekit-svg)
 
 A simple svg component to use in svelte projects.
 
